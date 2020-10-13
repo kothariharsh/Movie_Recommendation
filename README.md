@@ -11,3 +11,7 @@ Files Brief
 *In the create.py file I created two files for future uses one data.csv and other a numpy matrix.
 
 *The application is run from the main.py file.
+
+
+Resources Used:
+https://github.com/kishan0725/AJAX-Movie-Recommendation-System-with-Sentiment-Analysis

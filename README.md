@@ -5,15 +5,15 @@ This is a hollywood movie recommender system built with Python. I have used a Ka
 I used Flask web framework in built in Python to put the recommeder system on the web.
 
 Files Brief
-*In the preprocessing folder there are 4 files which are used to get data till 2020 and these are the files where the Data Preprocessing part has been done.
+* In the preprocessing folder there are 4 files which are used to get data till 2020 and these are the files where the Data Preprocessing part has been done.
 
-*The dataset files consists of all the dataset expext one which will be linked below.
+* The dataset files consists of all the dataset expext one which will be linked below.
 
 * The static and template folder consists the js and html part of the project.
 
 * The sentiment.ipynb shows the sentimental analysis done on the reviews.
 
-*The application is run from the main.py file.
+* The application is run from the main.py file.
 
 
 Resources Used:
